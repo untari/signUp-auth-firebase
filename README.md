@@ -12,9 +12,8 @@ Here is Login page ![login-page](http://url/to/login-page.png?raw=true "Login-Pa
 components defined in Login and Register respectively. App.jsx is the parent component of all the pages.
 
 ## To run it in your localhost 
-<ul>
-  `clone the repository`
-  `npm install`
-  `npm start`
-</ul>
+
+  - `clone the repository`
+  - `npm install`
+  - `npm start`
 
