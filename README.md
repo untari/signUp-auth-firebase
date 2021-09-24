@@ -8,7 +8,9 @@ It's a simple Sign up and login form created using reactjs, firebase and deploye
   4. Once your app been created there will be dashboard where you can set your authentication. 
 </p>
 
-Here is Login page ![login-page](public/login-page.png "Login-Page") which acts as a container to switch between login and registration 
+Here is Login page ![login-page](public/login-page.png "Login-Page") 
+
+which acts as a container to switch between login and registration 
 components defined in Login and Register respectively. App.jsx is the parent component of all the pages.
 
 ## To run it in your localhost 
