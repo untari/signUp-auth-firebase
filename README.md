@@ -12,7 +12,7 @@ which acts as a container to switch between login and registration
 components defined in Login and Register respectively. App.jsx is the parent component of all the pages.
 
 ### To check the website please click here:
-`[auth form](https://untari.com/signup-auth-firebse/ "auth-form")`
+  [Auth Form](https://untari.com/signup-auth-firebse/ "Auth-Form")
 
 ## For online testing you can input your email and password to sign up, once you are logged in there will be alert modal showing that you have been logged in successfully.
 
