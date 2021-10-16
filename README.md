@@ -11,9 +11,15 @@ Here is Login page ![login-page](public/login-page.png "Login-Page")
 which acts as a container to switch between login and registration 
 components defined in Login and Register respectively. App.jsx is the parent component of all the pages.
 
+### To check the website please click here:
+`[auth-form](https://untari.com/signup-auth-firebse/ "auth-form")`.
+
+### For online testing you can input your email and password to sign up, once you are logged in there will be alert modal showing that you have been logged in successfully.
+
 ## To run it in your localhost 
 
   - `clone the repository`
+  - `git clone https://github.com/untari/signup-auth-firebase.git`
   - `npm install`
   - `npm start`
 
