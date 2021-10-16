@@ -14,7 +14,7 @@ components defined in Login and Register respectively. App.jsx is the parent com
 ### To check the website please click here:
   [Auth Form](https://untari.com/signup-auth-firebse/ "Auth-Form")
 
-## For online testing you can input your email and password to sign up, once you are logged in there will be alert modal showing that you have been logged in successfully.
+For online testing you can input your email and password to sign up, once you are logged in there will be alert modal showing that you have been logged in successfully.
 
 ## To run it in your localhost 
 
