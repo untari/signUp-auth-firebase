@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/signup-auth-firebase/static/css/main.6ac8c759.chunk.css",
-    "main.js": "/signup-auth-firebase/static/js/main.c7741a1a.chunk.js",
-    "main.js.map": "/signup-auth-firebase/static/js/main.c7741a1a.chunk.js.map",
+    "main.css": "/signup-auth-firebase/static/css/main.7cc6c77f.chunk.css",
+    "main.js": "/signup-auth-firebase/static/js/main.b288fedc.chunk.js",
+    "main.js.map": "/signup-auth-firebase/static/js/main.b288fedc.chunk.js.map",
     "runtime-main.js": "/signup-auth-firebase/static/js/runtime-main.60e2ef3f.js",
     "runtime-main.js.map": "/signup-auth-firebase/static/js/runtime-main.60e2ef3f.js.map",
     "static/css/2.bf132516.chunk.css": "/signup-auth-firebase/static/css/2.bf132516.chunk.css",
-    "static/js/2.d682d8bd.chunk.js": "/signup-auth-firebase/static/js/2.d682d8bd.chunk.js",
-    "static/js/2.d682d8bd.chunk.js.map": "/signup-auth-firebase/static/js/2.d682d8bd.chunk.js.map",
+    "static/js/2.2b489658.chunk.js": "/signup-auth-firebase/static/js/2.2b489658.chunk.js",
+    "static/js/2.2b489658.chunk.js.map": "/signup-auth-firebase/static/js/2.2b489658.chunk.js.map",
     "static/js/3.521aa82e.chunk.js": "/signup-auth-firebase/static/js/3.521aa82e.chunk.js",
     "static/js/3.521aa82e.chunk.js.map": "/signup-auth-firebase/static/js/3.521aa82e.chunk.js.map",
     "index.html": "/signup-auth-firebase/index.html",
     "static/css/2.bf132516.chunk.css.map": "/signup-auth-firebase/static/css/2.bf132516.chunk.css.map",
-    "static/css/main.6ac8c759.chunk.css.map": "/signup-auth-firebase/static/css/main.6ac8c759.chunk.css.map",
-    "static/js/2.d682d8bd.chunk.js.LICENSE.txt": "/signup-auth-firebase/static/js/2.d682d8bd.chunk.js.LICENSE.txt",
+    "static/css/main.7cc6c77f.chunk.css.map": "/signup-auth-firebase/static/css/main.7cc6c77f.chunk.css.map",
+    "static/js/2.2b489658.chunk.js.LICENSE.txt": "/signup-auth-firebase/static/js/2.2b489658.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/signup-auth-firebase/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.60e2ef3f.js",
     "static/css/2.bf132516.chunk.css",
-    "static/js/2.d682d8bd.chunk.js",
-    "static/css/main.6ac8c759.chunk.css",
-    "static/js/main.c7741a1a.chunk.js"
+    "static/js/2.2b489658.chunk.js",
+    "static/css/main.7cc6c77f.chunk.css",
+    "static/js/main.b288fedc.chunk.js"
   ]
 }
