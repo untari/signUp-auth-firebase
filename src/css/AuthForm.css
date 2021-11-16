@@ -12,6 +12,9 @@
     justify-content: center;
     align-items: center;
 }
+.ribbon{
+    float: right;
+}
 
 .auth-form-header {
     margin-bottom: 20px;
