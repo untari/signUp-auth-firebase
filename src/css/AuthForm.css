@@ -19,9 +19,8 @@
 .auth-form-header {
     margin-bottom: 20px;
 }
-
 .auth-form-card {
-    width: 30% !important;
+    width: 35% !important;
 }
 
 .form-labels {
@@ -39,4 +38,22 @@
 
 .google-login {
   margin-top: 5%;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .auth-form-wrapper {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .auth-form-card {
+        width: 100% !important;
+        top: 25%;
+        left: 82%;
+        -ms-transform: translateX(-50%) translateY(-50%);
+        -webkit-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+    }
+    
 }
